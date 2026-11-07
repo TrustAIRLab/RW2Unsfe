@@ -1,0 +1,13 @@
+# Local system and Python artifacts
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Full unsafe datasets and generated outputs (not for public release)
+rewritten_prompts.json
+rewritten_prompts_only.json
+rewritten_prompts_and_intents.json
+score_results_*.json
+analysis_results.json
+rewrite_results.json
+rewrite_attempts.json

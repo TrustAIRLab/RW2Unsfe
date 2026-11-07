@@ -67,7 +67,7 @@ The default rewrite model is large; use a GPU environment with sufficient VRAM. 
 
 The full **rw_t2i_4chan** dataset contains 2,000 high-quality rewritten prompts derived from real-world unsafe content. It is **not distributed in this public repository**. Public release is limited to the 10-record sample above because the full dataset includes offensive, violent, sexually explicit, hateful, and otherwise disturbing material. Broad redistribution could enable misuse and unnecessarily amplify harmful content.
 
-Researchers who need the full dataset for a legitimate safety-evaluation purpose should contact the corresponding author listed in [RW2Unsafe.pdf](RW2Unsafe.pdf) from an institutional email address. Requests are manually reviewed for intended use before access is granted.
+Researchers who need the full dataset for a legitimate safety-evaluation purpose should contact the first author listed in [RW2Unsafe.pdf](RW2Unsafe.pdf) from an institutional email address. Requests are manually reviewed for intended use before access is granted.
 
 By using this repository or requesting the dataset, you agree to use the materials only for legitimate research, evaluation, and safety-improvement purposes; to comply with applicable laws, institutional review requirements, and platform policies; and not to use the materials to create, promote, or distribute harmful content.
 
